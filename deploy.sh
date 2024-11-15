@@ -1,1 +1,4 @@
-:wqthis file content of deployment procesADSFSdfss
+:w
+
+adfgsdfgadf
+qthis file content of deployment procesADSFSdfss
