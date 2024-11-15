@@ -1,6 +1,1 @@
-:w
-
-adfgsdfgadf
-hello iam in master branch
-
-qthis file content of deployment procesADSFSdfss
+testing on the git merge command for the best practice to view the diff b/w the both branch by useing the git diff <branch name>
